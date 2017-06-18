@@ -1,0 +1,48 @@
+body{font-size:12px;color:#522a06;padding:0px;font-family:"宋体";background-image:url("images/bodybg.gif");}
+img{border:0px;padding-top:38px;padding-left:25px;}
+a{text-decoration:none;}
+a:hover{text-decoration:underline;}
+a:link{color:#522a06;}
+#header{height:205px;background-image:url("images/bg.gif");}
+#banner{width:100%;height:24px;background-image:url("images/logo.jpg");background-position:center center;}
+#nav{height:40px;background-image:url(images/nav.jpg);}
+.nav_body{height:1000px;text-align:center;font-weight:bold;color:#fff;}
+.nav_body p a{line-height:25px;color:#fff;padding:20px;}
+.nav_body p{float:left;}
+.nav_body p a:hover{color:#f9f603;text-decoration:none;}
+.nav_search{padding-top:10px;}
+.search_1{
+	width:140px;
+	height:19px;
+	float:left;
+	border:1px solid #FFF;
+	background-color:#f8f5ee;
+}
+.haha{
+	width:44px;
+	height:21px;
+
+	background-color:#000;
+	border:1px solid #f8f5ee;
+	color:#FFF;}
+#list{width:1000px;}
+#content{width:700px;margin-top:0px;margin-left:100px;float:left;}
+.content-left{width:700px;}
+.content-left h2{text-align:center;}
+.content-left p{text-align:center;}
+.left-zhengwen{width:700px;line-height:23px;text-indent:2em;color:#522a06;padding-bottom:0px;}
+.image{margin-top:0px;padding-left:40px;}
+.left_zhengwen{width:700px;line-height:23px;text-indent:2em;color:#522a06;}
+.fanye{width:700px;float:left;}
+.fanye p{text-indent:2em;float:right;}
+#content-right{width:300px;float:right;margin-top:0px;margin-right:100px;}
+.shangbian{width:300px;}
+.shangbian{background-image:url("images/link_bg.png");background-repeat:no-repeat;float:left;margin-top:40px;margin-left:20px;}
+.shangbian img{padding-top:0px;}
+.shangbianzi{padding-left:20px;line-height:20px;}
+.xiabian{height:360px;float:left;margin-top:20px;padding-top:20px;padding-left:20px;background-image:url("images/show_bg.png");background-repeat:no-repeat;}
+.xiabian p{line-height:30px;padding-right:30px;}
+.yejiao{background-image:url("images/foot.gif");width:100%;height:130px;margin-top:850px;}
+.ye p{float:left;text-indent:40em;margin-top:40px;}
+.jiao{text-align:center;margin-top:0px;}
+.wenzi{text-align:center;}
