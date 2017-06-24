@@ -1,0 +1,22 @@
+h3{color:#522a06;}
+a{text-decoration:none;color:#522a06;}
+#logo{width:100%;height:400px;}
+#logo-left{width:200px;float:left;margin-left:300px;}
+#logo-right{width:200px;float:left;margin-top:90px;margin-left:30px;}
+.search{border:2px solid #FFF;}
+#logo-rr{float:left;margin-top:40px;margin-left:50px;padding-left:10px;}
+#logo-center{width:100%;height:470px;float:left;background-color:#abffab;}
+#logo-center p a{text-ecoration:none;font-size:20px;padding-left:40px;color:white;}
+#logo-center p{background-color:#00db00;height:35px;text-align:center;padding-top:20px;}
+#logo-center img{padding-top:10px;}
+.center{width:800px;margin-left:210px;float:left;}
+.youji{margin-left:210px;width:900px;border: 1px solid #ccc;float:left;}
+.tupian{float:left;width:200px;}
+.wenzi{float:left;padding-left:50px;}
+.wenzi a{color:#6c6c6c;}
+.wenzi a:hover{text-decoration:underline;}
+.content-bottom{float:left;width:890px;margin-left:240px;}
+.content-bottom tr a{padding-left:19px;color:#a9a9a9;}
+#foot{float:left;width:100%;height:130px;}
+#shuoming{float:left;}
+#shuoming p{padding-left:300px;text-align:center;}
